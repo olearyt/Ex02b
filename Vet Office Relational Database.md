@@ -36,4 +36,4 @@ PetDOB is a determinant of PetBreed, PetType, & PetName. Service is a determinan
 
 # Step 3
 We used OwnerEmail as a foreign key for both the Pet relation and the Service relation. 
-We did not use a foreign key for the Owner relation due to a decrease in rows. 
+We did not use a foreign key for the Owner relation because the number of rows are not consistent through the relations. 
